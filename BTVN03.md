@@ -1,5 +1,5 @@
 #         BTVN 03 (SESSION 19) 
-## 1.Báo phần tích IPO : Xác định Input (Dấu hiệu nhiễm), Process (Các bước xử lý), Output (Hệ thống sạch).
+## 1.Báo cáo phân tích IPO : Xác định Input (Dấu hiệu nhiễm), Process (Các bước xử lý), Output (Hệ thống sạch).
 ### Input (Dấu hiệu nhiễm):
 - FB, Gmail bị mất quyền kiểm soát liên tục,  bị đổi mật khẩu, đăng xuất đột ngột.
 - Nghi vấn là dính Infostealer. 
@@ -7,8 +7,8 @@
 - Ngắt kết nối mạn Wifi hoặc mạng LAN trên máy tính dính mã độc ngay lập tức để chặn và ngưng tải thêm các dữ liệu khác ra ngoài.
 - Đổi mật khẩu và bật xác minh 2FA thực hiện đổi mật khẩu toàn bộ tài khoản quan trọng (Gmail, FB, GitHub, Banking...) từ các thiết bị mà không dính mã độc, kích hoạt 2FA ưu tiên dùng Authenticator App.
 ### Output (Hệ thống sạch):
--Tài khoản cá nhân được bảo vệ bởi 
--Máy tính bị nhiễm mã độc được dọn sạch, không còn nguy cơ bị đánh cắp dữ liệu tiếp diễn.
+- Tài khoản cá nhân được bảo vệ bởi  2FA trên thiết bị sạch.
+- Máy tính bị nhiễm mã độc được dọn sạch, không còn nguy cơ bị đánh cắp dữ liệu tiếp diễn.
 ## 2.Triển khai: Mô tả chi tiết cách thực hiện "Đổi mật khẩu từ thiết bị khác" và "Revoke Token" trên GitHub. 
 ### Đổi mật khẩu từ thiết bị sạch:
 - Sử dụng 1 thiết bị sạch như điện thoại cá nhân dùng 4G,5G hoặc laptop sạch. Chúng ta tuyệt đối không thao tác trên máy tính đã bị nhiễm mã độc.
